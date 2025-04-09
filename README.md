@@ -221,12 +221,6 @@ Para futuros trabalhos, sugere-se:
 
 ---
 
-#### **10. Anexos**
-
-- **Código-Fonte**: Disponível no repositório GitHub [insira o link aqui].
-- **Capturas de Tela**:
-  - Resultados do `Main.java` no console.
-  - Relatório de testes do JUnit no IntelliJ IDEA.
 - **Instruções de Execução**:
   1. Abra o projeto no IntelliJ IDEA.
   2. Execute `Main.java` para demonstração.
