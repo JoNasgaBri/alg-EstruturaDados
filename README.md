@@ -1,7 +1,7 @@
 **PROJETO ACADÊMICO - Estruturas de Dados 1**
 **Implementação de Listas Simplesmente Encadeadas Dinâmicas em Java**
-**Grupo: [Insira os Nomes dos Integrantes Aqui]**
-**Professor: [Nome do Professor]**
+**Grupo: Jonas Gabriel//Luiz Gustavo Echaque Lima Barbosa**
+**Professor: Silvia Brandão**
 **Data de Entrega: 10 de Abril de 2025**
 
 ---
