@@ -75,17 +75,7 @@ A implementação foi dividida em classes que refletem os conceitos de encapsula
 
 **Estrutura de Diretórios:**
 
-LSEProjeto/
-├── src/
-│   ├── estruturas/
-│   │   ├── No.java
-│   │   ├── ListaSimples.java
-│   │   ├── Fila.java
-│   │   ├── Pilha.java
-│   │   ├── Deque.java
-│   │   └── Main.java
-│   └── testes/
-│       └── ListaSimplesTest.java
+![image](https://github.com/user-attachments/assets/bbb977f1-56bc-476f-90f3-af9c43de5273)
 
 
 ---
